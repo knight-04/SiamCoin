@@ -1,0 +1,17 @@
+/* sider.css */
+.custom-menu.ant-menu-dark .ant-menu-item-selected {
+    background-color: #e65f2b !important;
+}
+
+.custom-menu.ant-menu-dark .ant-menu-item:hover {
+    background-color: #ff7f50 !important;
+}
+
+/* สำหรับโหมด mobile */
+.custom-menu .ant-menu-item-selected {
+    background-color: #e65f2b !important;
+}
+
+.custom-menu .ant-menu-item:hover {
+    background-color: #ff7f50 !important;
+}
